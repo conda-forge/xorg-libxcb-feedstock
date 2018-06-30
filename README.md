@@ -14,14 +14,16 @@ Summary: A modernized X protocol transport library.
 Current build status
 ====================
 
-Linux: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-OSX: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+![Linux disabled](https://img.shields.io/badge/linux-disabled-lightgrey.svg)
+![OSX disabled](https://img.shields.io/badge/OSX-disabled-lightgrey.svg)
+![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xorg-libxcb/badges/version.svg)](https://anaconda.org/conda-forge/xorg-libxcb)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/xorg-libxcb/badges/downloads.svg)](https://anaconda.org/conda-forge/xorg-libxcb)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-xorg--libxcb-green.svg)](https://anaconda.org/conda-forge/xorg-libxcb) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/xorg-libxcb.svg)](https://anaconda.org/conda-forge/xorg-libxcb) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/xorg-libxcb.svg)](https://anaconda.org/conda-forge/xorg-libxcb) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/xorg-libxcb.svg)](https://anaconda.org/conda-forge/xorg-libxcb) |
 
 Installing xorg-libxcb
 ======================
